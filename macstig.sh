@@ -87,7 +87,7 @@ COMMENT17
 
 <<COMMENT18
 The operating system must initiate session audits at system startup.
-COMMENT
+COMMENT18
 /usr/bin/sudo /bin/launchctl load -w /System/Library/LaunchDaemons/com.apple.auditd.plist
 
 <<COMMENT19
